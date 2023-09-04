@@ -1,0 +1,27 @@
+/* ResultPage.css */
+
+.result-container {
+          background-color: #f7f7f7;
+          padding: 20px;
+          border-radius: 10px;
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.result-container h1 {
+          color: #333;
+}
+
+.result-container h2 {
+          color: #007bff;
+
+}
+
+.result-container p {
+          margin: 10px 0;
+}
+
+
+.result-container .btn-primary {
+          display: block;
+          margin: 0 auto;
+}

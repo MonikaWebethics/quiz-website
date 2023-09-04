@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "subject": "HTML",
+    "question": "What does HTML stand for?",
+    "options": [
+      "Hypertext Markup Language",
+      "Hyperlink and Text Markup Language",
+      "Highly Textual Markup Language",
+      "Hypertext Transfer Markup Language"
+    ],
+    "correct_answer": "Hypertext Markup Language"
+  },
+  {
+    "id": 2,
+    "subject": "HTML",
+    "question": "Which HTML tag is used for creating an ordered list?",
+    "options": [
+      "<ol>",
+      "<ul>",
+      "<li>",
+      "<dl>"
+    ],
+    "correct_answer": "<ol>"
+  },
+  {
+    "id": 3,
+    "subject": "HTML",
+    "question": "What is the purpose of the HTML <a> element?",
+    "options": [
+      "To define a paragraph",
+      "To create a hyperlink",
+      "To format text as bold",
+      "To display an image"
+    ],
+    "correct_answer": "To create a hyperlink"
+  },
+  {
+    "id": 4,
+    "subject": "HTML",
+    "question": "Which HTML tag is used for creating a line break?",
+    "options": [
+      "<br>",
+      "<p>",
+      "<hr>",
+      "<div>"
+    ],
+    "correct_answer": "<br>"
+  },
+  {
+    "id": 5,
+    "subject": "HTML",
+    "question": "What is the correct HTML element for the largest heading?",
+    "options": [
+      "<h1>",
+      "<h6>",
+      "<head>",
+      "<heading>"
+    ],
+    "correct_answer": "<h1>"
+  },
+  {
+    "id": 6,
+    "subject": "CSS",
+    "question": "What does CSS stand for?",
+    "options": [
+      "Cascading Style Sheet",
+      "Computer Style Sheet",
+      "Creative Style Sheet",
+      "Colorful Style Sheet"
+    ],
+    "correct_answer": "Cascading Style Sheet"
+  },
+  {
+    "id": 7,
+    "subject": "CSS",
+    "question": "Which CSS property is used to change the text color of an element?",
+    "options": [
+      "color",
+      "text-color",
+      "font-color",
+      "background-color"
+    ],
+    "correct_answer": "color"
+  },
+  {
+    "id": 8,
+    "subject": "CSS",
+    "question": "What is the purpose of the CSS property 'margin'?",
+    "options": [
+      "To change the element's background color",
+      "To add space outside the element's border",
+      "To change the element's font size",
+      "To add space inside the element's border"
+    ],
+    "correct_answer": "To add space outside the element's border"
+  },
+  {
+    "id": 9,
+    "subject": "CSS",
+    "question": "Which CSS property is used to change the font size of an element?",
+    "options": [
+      "font-size",
+      "text-size",
+      "font-style",
+      "size"
+    ],
+    "correct_answer": "font-size"
+  },
+  {
+    "id": 10,
+    "subject": "CSS",
+    "question": "What is the purpose of the CSS property 'border'?",
+    "options": [
+      "To change the element's background color",
+      "To add space outside the element's border",
+      "To change the element's font size",
+      "To create a border around the element"
+    ],
+    "correct_answer": "To create a border around the element"
+  },
+  {
+    "id": 11,
+    "subject": "JavaScript",
+    "question": "What is JavaScript primarily used for?",
+    "options": [
+      "Styling web pages",
+      "Creating interactive web pages",
+      "Managing databases",
+      "Running server-side code"
+    ],
+    "correct_answer": "Creating interactive web pages"
+  },
+  {
+    "id": 12,
+    "subject": "JavaScript",
+    "question": "What is the result of adding two variables with different data types in JavaScript?",
+    "options": [
+      "An error",
+      "The variable with a string data type is converted to a number and added",
+      "The variable with a number data type is converted to a string and concatenated",
+      "Both variables are treated as numbers and added"
+    ],
+    "correct_answer": "An error"
+  },
+  {
+    "id": 13,
+    "subject": "JavaScript",
+    "question": "What is the result of adding a number and a string in JavaScript?",
+    "options": [
+      "An error",
+      "The string is converted to a number and added",
+      "The number is converted to a string and concatenated",
+      "Both are treated as strings and concatenated"
+    ],
+    "correct_answer": "Both are treated as strings and concatenated"
+  },
+  {
+    "id": 14,
+    "subject": "JavaScript",
+    "question": "What does 'NaN' stand for in JavaScript?",
+    "options": [
+      "Not a Number",
+      "New Age Notation",
+      "Null and Negative",
+      "Number and Null"
+    ],
+    "correct_answer": "Not a Number"
+  },
+  {
+    "id": 15,
+    "subject": "JavaScript",
+    "question": "How do you write a comment in JavaScript?",
+    "options": [
+      "<!-- This is a comment -->",
+      "// This is a comment",
+      "/* This is a comment */",
+      "## This is a comment"
+    ],
+    "correct_answer": "// This is a comment"
+  },
+  {
+    "id": 16,
+    "subject": "React",
+    "question": "What is React.js?",
+    "options": [
+      "A JavaScript library for building user interfaces",
+      "A programming language",
+      "A database management system",
+      "A web browser"
+    ],
+    "correct_answer": "A JavaScript library for building user interfaces"
+  },
+  {
+    "id": 17,
+    "subject": "React",
+    "question": "What is JSX in React?",
+    "options": [
+      "JavaScript XML",
+      "JavaScript Extension",
+      "Java Server X",
+      "JavaScript X"
+    ],
+    "correct_answer": "JavaScript XML"
+  },
+  {
+    "id": 18,
+    "subject": "React",
+    "question": "Which component lifecycle method is called after a component is rendered for the first time?",
+    "options": [
+      "componentDidMount",
+      "componentWillMount",
+      "componentWillUnmount",
+      "componentDidUpdate"
+    ],
+    "correct_answer": "componentDidMount"
+  },
+  {
+    "id": 19,
+    "subject": "React",
+    "question": "In React, how do you pass data from a parent component to a child component?",
+    "options": [
+      "Using the child's state",
+      "Using props",
+      "Using Redux",
+      "Using context"
+    ],
+    "correct_answer": "Using props"
+  },
+  {
+    "id": 20,
+    "subject": "React",
+    "question": "What is the virtual DOM in React?",
+    "options": [
+      "A concept used to optimize DOM updates",
+      "A physical representation of the DOM",
+      "A JavaScript file that defines the DOM structure",
+      "A browser extension for debugging DOM elements"
+    ],
+    "correct_answer": "A concept used to optimize DOM updates"
+  }
+]
